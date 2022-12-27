@@ -1,6 +1,7 @@
 {
     "serverAddress": "itssinkhole",
     "serverName": "Fukushiga ITS Server",
+    "iconName": "fukushiga logo.png",
     "terminalID": "F67",
     "defaultUser": {
         "userId": "user",
