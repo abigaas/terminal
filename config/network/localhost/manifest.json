@@ -1,20 +1,11 @@
 {
     "serverAddress": "itssinkhole",
     "serverName": "Fukushiga ITS Server",
-    "iconName": "fukushiga logo.png",
+    "iconName": "fukushiga-logo.png",
     "terminalID": "F67",
     "defaultUser": {
         "userId": "user",
         "password": "",
         "userName": "anonymous"
     },
-    "randomSeed": true,
-    "initialHistory": {
-        "user": [
-            "login admin@admin"
-        ],
-        "admin": [
-            "ping fbi.gov"
-        ]
-    }
 }
